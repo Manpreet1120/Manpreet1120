@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Manpreet 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -10,18 +10,20 @@
 <p align="center">
   <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto: manujhajj67@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+Every business generates data — the ones that win are the ones that turn it into decisions faster than their competitors. That's the problem I set out to solve as a data analyst.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My journey started with an MBA in Business Analytics, where I learned to look past raw numbers and ask what a business actually needs from them. I put that into practice as a marketing intern at UAS International, working with customer and business data to support day-to-day decisions. After my MBA, I joined Ujjivan Small Finance Bank as an Executive Trainee, where I worked closely with operational and customer data — maintaining records, tracking branch-level KPIs, and ensuring the numbers behind service delivery were accurate and reliable. That experience taught me a simple principle: a report only has value if someone downstream can act on it with confidence.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I then paused industry work to prepare for the UPSC Civil Services Examination. Rather than a departure from analytics, it doubled as an intensive exercise in the same core skills — structured research, distilling complex information into clear conclusions, and communicating findings persuasively under pressure. I've since returned to analytics with that discipline sharpened further, building on my foundation independently through SQL, Power BI, and Python projects to go beyond what a spreadsheet alone can do.
+
+Outside of work, I read and play chess, both of which train the same instinct I bring to analytics: reading a situation several moves ahead before others do. That's ultimately what draws me to this field — the point where a dataset stops being noise and starts telling a business something it needs to know.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](manpreet1120.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
