@@ -41,9 +41,20 @@ Outside of work, I read and play chess, both of which train the same instinct I 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
 #### Data Analysis & Visualization
-<p> <img src="https://img.shields.io/badge/SQL-4E79A7?style=flat-square&logo=mysql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/Power%20BI-C9A227?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Excel-4F8A70?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"> </p>
+<p>   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></p>
 
 #### Programming & Automation
 
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/NumPy-4D77CF?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Pandas-5B4B8A?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Matplotlib-5C8DB8?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"> <img src="https://img.shields.io/badge/R-4C78A8?style=flat-square&logo=r&logoColor=white" alt="R"> </p>
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+</p>
 
