@@ -23,7 +23,7 @@ I then paused industry work to prepare for the UPSC Civil Services Examination. 
 Outside of work, I read and play chess, both of which train the same instinct I bring to analytics: reading a situation several moves ahead before others do. That's ultimately what draws me to this field — the point where a dataset stops being noise and starts telling a business something it needs to know.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website]https://github.com/Manpreet1120
+### [🏆 Check Out My Full Portfolio Website] https://github.com/Manpreet1120
       
 ## 🔭 What I'm Currently Working On 
 
@@ -51,6 +51,9 @@ Outside of work, I read and play chess, both of which train the same instinct I 
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+    <img src="https://img.shields.io/badge/numpy-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+    <img src="https://img.shields.io/badge/Pandas-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+    <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
 </p>
 
