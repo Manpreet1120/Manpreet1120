@@ -16,11 +16,13 @@
 ## 🚀 About Me 
 Every business generates data — the ones that win are the ones that turn it into decisions faster than their competitors. That's the problem I set out to solve as a data analyst.
 
-My journey started with an MBA in Business Analytics, where I learned to look past raw numbers and ask what a business actually needs from them. I put that into practice as a marketing intern at UAS International, working with customer and business data to support day-to-day decisions. After my MBA, I joined Ujjivan Small Finance Bank as an Executive Trainee, where I worked closely with operational and customer data — maintaining records, tracking branch-level KPIs, and ensuring the numbers behind service delivery were accurate and reliable. That experience taught me a simple principle: a report only has value if someone downstream can act on it with confidence.
+My journey into data analytics started with a simple curiosity: what can data tell us beyond the numbers?
+With an MBA in Business Analytics, I learned to look at data not just as numbers, but as a way to understand problems and support better decisions. I got to apply this perspective through my experience in marketing at UAS International and later at Ujjivan Small Finance Bank, where I worked with customer information, operational data, reporting, and KPIs.
 
-I then paused industry work to prepare for the UPSC Civil Services Examination. Rather than a departure from analytics, it doubled as an intensive exercise in the same core skills — structured research, distilling complex information into clear conclusions, and communicating findings persuasively under pressure. I've since returned to analytics with that discipline sharpened further, building on my foundation independently through SQL, Power BI, and Python projects to go beyond what a spreadsheet alone can do.
+I then took a break from industry to prepare for the UPSC Civil Services Examination. That journey strengthened my research, analytical thinking, and ability to turn complex information into clear conclusions.
 
-Outside of work, I read and play chess, both of which train the same instinct I bring to analytics: reading a situation several moves ahead before others do. That's ultimately what draws me to this field — the point where a dataset stops being noise and starts telling a business something it needs to know.
+Today, I’m bringing those skills back to analytics and building hands-on projects with SQL, Excel, Power BI, and Python — turning raw data into insights that businesses can act on.
+Outside of analytics, I enjoy reading and playing chess, two things that keep me curious, analytical, and always thinking a few steps ahead.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website] https://github.com/Manpreet1120
