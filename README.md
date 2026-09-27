@@ -13,16 +13,17 @@
   <a href="mailto:manujhajj67@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
-Every business generates data — the ones that win are the ones that turn it into decisions faster than their competitors. That's the problem I set out to solve as a data analyst.
+## 🚀 About Me
 
-My journey into data analytics started with a simple curiosity: what can data tell us beyond the numbers?
-With an MBA in Business Analytics, I learned to look at data not just as numbers, but as a way to understand problems and support better decisions. I got to apply this perspective through my experience in marketing at UAS International and later at Ujjivan Small Finance Bank, where I worked with customer information, operational data, reporting, and KPIs.
+My journey into data analytics started with a simple curiosity: **what can data tell us beyond the numbers?**
 
-I then took a break from industry to prepare for the UPSC Civil Services Examination. That journey strengthened my research, analytical thinking, and ability to turn complex information into clear conclusions.
+With an MBA in Business Analytics, I learned to look at data not just as numbers, but as a way to understand business problems and support better decisions. I applied this perspective through my experience in marketing at UAS International and later at Ujjivan Small Finance Bank, where I worked with customer information, operational data, reporting, and KPIs.
 
-Today, I’m bringing those skills back to analytics and building hands-on projects with SQL, Excel, Power BI, and Python — turning raw data into insights that businesses can act on.
-Outside of analytics, I enjoy reading and playing chess, two things that keep me curious, analytical, and always thinking a few steps ahead.
+I then took a career break to prepare for the UPSC Civil Services Examination, an experience that strengthened my research, analytical thinking, and ability to turn complex information into clear conclusions.
+
+Today, I’m focused on building my career in data analytics through hands-on projects using **SQL, Excel, Power BI, and Python** — turning raw data into meaningful insights that support informed business decisions.
+
+Outside of analytics, I enjoy **reading and playing chess**, which keep me curious and strengthen my problem-solving mindset.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website] https://github.com/Manpreet1120
@@ -36,10 +37,6 @@ Outside of analytics, I enjoy reading and playing chess, two things that keep me
 
 - Advanced SQL (window functions, query optimization)
 - Power BI DAX and data modelling techniques
-
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
--**Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
 
 ## 🛠️ Technical Skillset
@@ -58,6 +55,6 @@ Outside of analytics, I enjoy reading and playing chess, two things that keep me
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> -->
 </p>
 
