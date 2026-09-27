@@ -28,7 +28,6 @@ Today, I’m focused on building my career in data analytics through hands-on pr
 Outside of analytics, I enjoy **reading and playing chess**, which keep me curious and strengthen my problem-solving mindset.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website] https://github.com/Manpreet1120
       
 ## 🔭 What I'm Currently Working On 
 
