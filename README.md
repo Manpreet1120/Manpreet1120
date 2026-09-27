@@ -27,14 +27,18 @@ Outside of work, I read and play chess, both of which train the same instinct I 
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- Applying for Business Analyst / Analytics Associate roles, building on my MBA in Business Analytics
+- Expanding my portfolio with independent SQL, Python, and Power BI projects
 
-## 🌱 Currently Learning 
+## 🌱 Currently Learning
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Advanced SQL (window functions, query optimization)
+- Power BI DAX and data modelling techniques
+
+-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+-**Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+
 
 ## 🛠️ Technical Skillset
 
